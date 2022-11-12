@@ -1,12 +1,3 @@
-.background {
-    background: url(images/ow2-rein-cover.jpg);
-}
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-  }
 .hnavbar {
     list-style-type: none;
     margin: 0;
@@ -16,7 +7,6 @@
     position: fixed;
     top: 0px;
     width: 100%;
-    height: 100%;
 }
 .libar {
     float: left;
